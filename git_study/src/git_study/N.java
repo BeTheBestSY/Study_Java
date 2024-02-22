@@ -10,6 +10,7 @@ public class N {
 		// 추가합니다.
 		
 		Scanner sc = new Scanner(System.in);
+		int a = 0 ;
 	}
 
 }
